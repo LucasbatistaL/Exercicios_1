@@ -1,7 +1,5 @@
-# Exercicios_1
 
-
-# Exercicio 1.1
+# Exercicio 1
 print("hello word\n")
 
 
@@ -34,4 +32,4 @@ nome_prod = "Cadeira infantil"
 valor =int(input('digite o valor: \n'))
 quant = int(input("Digite a quantidade: \n"))
 
-print(f"Produto:{nome_prod} Valor total:R${valor * quant}")
+print(f"\nProduto:{nome_prod}\nValor total:R${valor * quant}\nUnidade:{quant}")
